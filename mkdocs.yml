@@ -3,6 +3,7 @@ site_url: https://brintonmemorialcookbook.nl.ca/
 site_description: This cookbook is dedicated to the students, parents and staff of Brinton Memorial School. March, 1996.
 site_author: Brinton Memorial
 copyright: '&copy; 1996 Brinton Memorial'
+repo_name: mikew/brinton-memorial-cookbook
 repo_url: https://github.com/mikew/brinton-memorial-cookbook
 
 extra:
@@ -13,6 +14,7 @@ extra:
       link: https://github.com/mikew/brinton-memorial-cookbook
 
 plugins:
+  - social
   - search
 
   # https://github.com/timvink/mkdocs-charts-plugin
@@ -38,8 +40,8 @@ plugins:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/logo.svg
-  favicon: assets/images/logo.svg
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
 
   features:
     # Top level sections are always available at the top.
@@ -47,6 +49,7 @@ theme:
     # SPA navigation.
     - navigation.instant
     - navigation.indexes
+    - navigation.footer
     # Move the table of contents for a page to the main sidebar.
     # - toc.integrate
     # Simple search suggestions as the user types.
@@ -60,13 +63,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: teal
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: teal
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
 
 extra_javascript:
