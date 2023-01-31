@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-260 93 1124 434" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-4-1" gradientUnits="userSpaceOnUse" x1="286.779" y1="112.902" x2="286.779" y2="123" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4" bx:pinned="true">
+      <stop style="stop-color: rgba(0, 0, 0, 0.21);" offset="0"/>
+      <stop style="stop-color: rgb(0, 0, 0);" offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-4-3" gradientUnits="userSpaceOnUse" x1="286.779" y1="467" x2="286.779" y2="506.484" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-2" gradientUnits="userSpaceOnUse" x1="80.196" y1="299.919" x2="80.196" y2="319.527" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-0" gradientUnits="userSpaceOnUse" x1="493.066" y1="299.628" x2="493.066" y2="319.758" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-4" gradientUnits="userSpaceOnUse" x1="286.779" y1="112.902" x2="286.779" y2="123" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-5" gradientUnits="userSpaceOnUse" x1="286.779" y1="467" x2="286.779" y2="506.484" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-6" gradientUnits="userSpaceOnUse" x1="80.196" y1="299.919" x2="80.196" y2="319.527" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-7" gradientUnits="userSpaceOnUse" x1="493.066" y1="299.628" x2="493.066" y2="319.758" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-8" gradientUnits="userSpaceOnUse" x1="286.779" y1="112.902" x2="286.779" y2="123" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-9" gradientUnits="userSpaceOnUse" x1="286.779" y1="467" x2="286.779" y2="506.484" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-10" gradientUnits="userSpaceOnUse" x1="80.196" y1="299.919" x2="80.196" y2="319.527" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-4-11" gradientUnits="userSpaceOnUse" x1="493.066" y1="299.628" x2="493.066" y2="319.758" xlink:href="#gradient-4"/>
+  </defs>
+  <g style="" transform="matrix(1, 0, 0, 1, -0.000115, 0)">
+    <rect x="-260" width="1124" height="434" style="fill: rgb(244, 113, 0);" y="93">
+      <title>Background</title>
+    </rect>
+    <g style="">
+      <rect x="90" y="123" width="393" height="344" style="opacity: 0.52; mix-blend-mode: hard-light;">
+        <title>Main Entrance Inner Guide</title>
+      </rect>
+      <path style="fill-rule: nonzero; fill: url(#gradient-4-1); mix-blend-mode: multiply; opacity: 0.22; paint-order: fill; stroke-opacity: 0.17;" d="M 70.429 112.902 L 503.13 112.961 L 483 123 L 90 123 L 70.429 112.902 Z"/>
+      <path style="paint-order: fill; fill-rule: nonzero; fill: url(#gradient-4-3); mix-blend-mode: multiply; stroke-opacity: 0.17; opacity: 0.31;" d="M 70.429 467 L 503.13 467 L 483.559 506.484 L 90.559 506.484 L 70.429 467 Z" transform="matrix(-1, 0, 0, -1, 573.558971, 973.484021)"/>
+      <path style="paint-order: fill; fill-rule: nonzero; fill: url(#gradient-4-2); mix-blend-mode: multiply; opacity: 0.22; stroke-opacity: 0.17;" d="M -116.566 299.957 L 276.957 299.919 L 266.918 319.527 L -77.082 319.527 L -116.566 299.957 Z" transform="matrix(0, -1, 1, 0, -229.527518, 389.918524)"/>
+      <path style="paint-order: fill; fill-rule: nonzero; fill: url(#gradient-4-0); mix-blend-mode: multiply; opacity: 0.22; stroke-opacity: 0.17;" d="M 296.275 299.628 L 689.856 299.628 L 650.373 319.758 L 306.373 319.758 L 296.275 299.628 Z" transform="matrix(0, 1, -1, 0, 802.758503, -183.372501)"/>
+    </g>
+    <g style="" transform="matrix(0.370824, 0, 0, 0.55629, 598.108154, 50.09576)">
+      <rect x="90" y="123" width="393" height="344" style="opacity: 0.52; mix-blend-mode: hard-light;">
+        <title>Main Entrance Inner Guide</title>
+      </rect>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; opacity: 0.22; fill: url(#gradient-4-4);" d="M 70.429 112.902 L 503.13 112.961 L 483 123 L 90 123 L 70.429 112.902 Z"/>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; fill: url(#gradient-4-5); opacity: 0.31;" d="M 70.429 467 L 503.13 467 L 483.559 506.484 L 90.559 506.484 L 70.429 467 Z" transform="matrix(-1, 0, 0, -1, 573.558971, 973.484021)"/>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; opacity: 0.22; fill: url(#gradient-4-6);" d="M -116.566 299.957 L 276.957 299.919 L 266.918 319.527 L -77.082 319.527 L -116.566 299.957 Z" transform="matrix(0, -1, 1, 0, -229.527518, 389.918524)"/>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; opacity: 0.22; fill: url(#gradient-4-7);" d="M 296.275 299.628 L 689.856 299.628 L 650.373 319.758 L 306.373 319.758 L 296.275 299.628 Z" transform="matrix(0, 1, -1, 0, 802.758503, -183.372501)"/>
+    </g>
+    <g style="" transform="matrix(0.370824, 0, 0, 0.55629, -205.79985, 50.154755)">
+      <rect x="90" y="123" width="393" height="344" style="opacity: 0.52; mix-blend-mode: hard-light;">
+        <title>Main Entrance Inner Guide</title>
+      </rect>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; opacity: 0.22; fill: url(#gradient-4-8);" d="M 70.429 112.902 L 503.13 112.961 L 483 123 L 90 123 L 70.429 112.902 Z"/>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; fill: url(#gradient-4-9); opacity: 0.31;" d="M 70.429 467 L 503.13 467 L 483.559 506.484 L 90.559 506.484 L 70.429 467 Z" transform="matrix(-1, 0, 0, -1, 573.558971, 973.484021)"/>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; opacity: 0.22; fill: url(#gradient-4-10);" d="M -116.566 299.957 L 276.957 299.919 L 266.918 319.527 L -77.082 319.527 L -116.566 299.957 Z" transform="matrix(0, -1, 1, 0, -229.527518, 389.918524)"/>
+      <path style="paint-order: fill; fill-rule: nonzero; mix-blend-mode: multiply; opacity: 0.22; fill: url(#gradient-4-11);" d="M 296.275 299.628 L 689.856 299.628 L 650.373 319.758 L 306.373 319.758 L 296.275 299.628 Z" transform="matrix(0, 1, -1, 0, 802.758503, -183.372501)"/>
+    </g>
+  </g>
+</svg>
