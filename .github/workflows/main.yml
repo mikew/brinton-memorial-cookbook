@@ -1,8 +1,6 @@
 name: CI
 
-on:
-  push:
-  workflow_dispatch:
+on: push
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -22,14 +20,13 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - run: ./script/prepare-env
       - run: ./script/build
-      - run: ls -la
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
