@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+set -ex
+
+PROCESSING_DIR="original-scan/processing"
+
+main() {
+  generate-pages
+  trim-pages
+  ocr-pages
+}
+
+generate-pages() {
+  if [ -e "$PROCESSING_DIR/pages/page-0.png" ]; then
+    return
+  fi
+
+  mkdir -p "$PROCESSING_DIR/pages"
+
+  convert -density 400 original-scan/original-scan.pdf "$PROCESSING_DIR/pages/page.png"
+}
+
+trim-pages() {
+  if [ -e "$PROCESSING_DIR/trimmed/page-0.png" ]; then
+    return
+  fi
+
+
+  mkdir -p "$PROCESSING_DIR/trimmed"
+
+  # TODO Running this in parallel would speed it wayyyyy up.
+  find "$PROCESSING_DIR/pages" -iname '*.png' | while read -r line; do
+    file_basename=$(basename "$line")
+    file_number=${file_basename/page-/}
+    file_number=${file_number/.png/}
+
+    # We need different crop commands due to how the pages are arranged in the
+    # original scan.
+    if [ $((file_number % 2)) -eq 0 ]; then
+      convert "$line" -crop 54.333333x100%+0+0\! "$PROCESSING_DIR/trimmed/$file_basename"
+    else
+      convert "$line" -gravity East -crop 54.6969697x100%+0+0\! "$PROCESSING_DIR/trimmed/$file_basename"
+    fi
+  done
+
+}
+
+ocr-pages() {
+  if [ -e "$PROCESSING_DIR/ocr/page-0.png.txt" ]; then
+    return
+  fi
+
+  mkdir -p "$PROCESSING_DIR/ocr"
+
+  # TODO Running this in parallel would speed it wayyyyy up.
+  find "$PROCESSING_DIR/trimmed" -iname '*.png' | while read -r line; do
+    file_basename=$(basename "$line")
+
+    tesseract "$line" "$PROCESSING_DIR/ocr/$file_basename"
+  done
+}
+
+main "$@"

@@ -1,0 +1,73 @@
+#!/usr/bin/env bash
+set -e
+
+# All the recipes were written as:
+#
+#     docs/mains/BACON AND BREWIS (BREAKFAST).md
+#     # BACON AND BREWIS (BREAKFAST)
+#
+# We want that to be:
+#
+#     docs/mains/bacon-and-brewis-breakfast.md
+#     # Bacon and Brewis (Breakfast)
+
+main() {
+  find docs/ -type f -iname '*.md' | while read -r line; do
+    file_basename=$(basename "$line" .md)
+    file_dirname=$(dirname "$line")
+    new_file_name=$(echo "$file_basename" | slugify).md
+    first_line=$(head -n 1 "$line" | sed -E 's/^#\s+//')
+    new_title=$(titlecase "$first_line")
+    rest_of_file=$(cat "$line" | tail +2)
+
+    if [ "$file_basename" = "index" ]; then
+      continue
+    fi
+
+    printf "# %s\n%s" "$new_title" "$rest_of_file" > "$line"
+    git add "$line"
+    git commit -m "titlecase $line"
+    git mv "$line" "$file_dirname/$new_file_name" || true
+    git commit -m "rename $line"
+  done
+}
+
+# https://gist.github.com/oneohthree/f528c7ae1e701ad990e6
+slugify() {
+  iconv -t ascii//TRANSLIT \
+    | tr '[:upper:]' '[:lower:]' \
+    | sed -E 's/[^a-z0-9]+/-/g' \
+    | sed -E 's/^-+//g' \
+    | sed -E 's/-+$//g'
+}
+
+# https://stackoverflow.com/a/43010244
+titlecase() {
+  # It's important to _not_ quote this.
+  # shellcheck disable=SC2048,SC2086
+  set ${*,,}
+  # It's important to _not_ quote this.
+  # shellcheck disable=SC2048,SC2086
+  set ${*^}
+
+  c="$1"
+  shift 1
+
+  # It's important to _not_ quote this.
+  # shellcheck disable=SC2048
+  for f in ${*} ; do
+    case $f in
+      A|The|Is|Of|For|And|Or|But|About)
+        c="$c ${f,,}"
+        ;;
+      *)
+        c="$c $f"
+        ;;
+    esac
+  done
+
+  echo "$c"
+}
+
+
+main "@$"
