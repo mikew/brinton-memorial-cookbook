@@ -9,7 +9,7 @@ repo_url: https://github.com/mikew/brinton-memorial-cookbook
 extra:
   social:
     - icon: fontawesome/solid/globe
-      link: https://brintonmemorialcookbook.nl.ca/
+      link: https://mikew.github.io/brinton-memorial-cookbook
     - icon: fontawesome/brands/github-alt
       link: https://github.com/mikew/brinton-memorial-cookbook
 
