@@ -13,6 +13,7 @@ extra:
       link: https://github.com/mikew/brinton-memorial-cookbook
 
 plugins:
+  - social
   - search
 
   # https://github.com/timvink/mkdocs-charts-plugin
@@ -38,8 +39,8 @@ plugins:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/logo.svg
-  favicon: assets/images/logo.svg
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
 
   features:
     # Top level sections are always available at the top.
