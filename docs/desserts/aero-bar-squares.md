@@ -1,6 +1,6 @@
-# Aero Bar Souares
+# Aero Bar Squares
 
-Cindy Hickman
+Cindy Hickman<br/>
 Scott Hickman
 
 - 1/2 cup butter, melted

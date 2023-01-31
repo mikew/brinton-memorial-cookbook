@@ -1,6 +1,6 @@
 # Chocolate Cheesecake
 
-Olga Heath
+Olga Heath<br/>
 Michael and Kaitlin Penney
 
 - 1 1/3 cups graham cracker crumbs

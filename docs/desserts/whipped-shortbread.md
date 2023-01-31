@@ -1,6 +1,6 @@
 # Whipped Shortbread
 
-Jennifer Wyatt
+Jennifer Wyatt<br/>
 Jessica and Michael Wyatt
 
 - 1 lb butter

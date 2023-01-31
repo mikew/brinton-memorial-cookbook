@@ -1,6 +1,6 @@
 # Chocolate Pinwheel Cookies
 
-Vicki Stokes
+Vicki Stokes<br/>
 Gillian and Andrea Stokes
 
 - 2/3 cup butter

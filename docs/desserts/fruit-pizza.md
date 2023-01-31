@@ -1,7 +1,7 @@
 # Fruit Pizza
 
-Beulah Gruchy
-Grade 4 Teacher (1985 - 1986)
+Beulah Gruchy<br/>
+Grade 4 Teacher (1985 - 1986)<br/>
 Grade 2 Teacher (1986 - 1995)
 
 - 1/2 cup margarine

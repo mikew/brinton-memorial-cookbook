@@ -1,6 +1,6 @@
 # Rum Cake
 
-Barbara Peterman
+Barbara Peterman<br/>
 Laura Peterman
 
 - 1 cup chopped pecans

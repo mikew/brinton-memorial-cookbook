@@ -1,6 +1,6 @@
 # Steamed Partridgeberry Pudding
 
-Bernie Bowers
+Bernie Bowers<br/>
 Andy and Kate Bowers
 
 *Rum sauce optional*

@@ -1,6 +1,6 @@
 # Salade Niçoise
 
-Lois Hoegg
+Lois Hoegg<br/>
 Charlotte, Catherine and Rachel Crosbie
 
 - 4 hard-boiled eggs

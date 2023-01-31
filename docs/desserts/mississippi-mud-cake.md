@@ -1,6 +1,6 @@
 # Mississippi Mud Cake
 
-Mary Catherine Hancock
+Mary Catherine Hancock<br/>
 Matthew, Colin and Laura Hancock
 
 Cake:
@@ -13,7 +13,10 @@ Cake:
 - 5 squares unsweetened chocolate, melted
 - 1 cup lukewarm strong black coffee
 - 3/4 cup sour cream
-- 1/4 cup vegetable oil Topping:
+- 1/4 cup vegetable oil
+
+Topping:
+
 - 2 cups miniature marshmallows
 - 1 cup chopped toasted pecans
 

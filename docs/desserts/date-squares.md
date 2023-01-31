@@ -1,6 +1,6 @@
-# Date Souares
+# Date Squares
 
-Dayle Cammaert
+Dayle Cammaert<br/>
 Lauren Cammaert
 
 - 3/4 cup water

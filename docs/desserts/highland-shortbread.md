@@ -1,6 +1,6 @@
 # Highland Shortbread
 
-Maud Foster
+Maud Foster<br/>
 Grade 4 Teacher (1959 - 1985)
 
 - 11 oz plain flour

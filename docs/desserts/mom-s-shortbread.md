@@ -1,6 +1,6 @@
 # Mom's Shortbread
 
-Lois Hoegg
+Lois Hoegg<br/>
 Charlotte, Catherine and Rachel Crosbie
 
 - 1 cup butter (no substitutes)

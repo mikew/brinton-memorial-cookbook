@@ -1,6 +1,6 @@
 # Rice Krispie Bars
 
-Susan Squires
+Susan Squires<br/>
 Matthew Squires
 
 - 2 1/2 cups Rice Krispies

@@ -1,6 +1,6 @@
 # Mudpies
 
-Glenda Ripley
+Glenda Ripley<br/>
 Lauren Ripley
 
 - 1 cup sugar

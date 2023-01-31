@@ -9,7 +9,10 @@ Salad:
 - 1/4 cup crumbled blue cheese
 - 1/2 seedless cucumber, peeled
 - Red onion rings, or 2 green onions, sliced
-- 1 bunch watercress, optional Topping:
+- 1 bunch watercress, optional
+
+Topping:
+
 - 2 Tbsp butter
 - 2 Tbsp vegetable oil
 - 1 lb thinly sliced sirloin steak

@@ -5,7 +5,10 @@ Andrew Arreguin
 
 - Spinach
 - Strawberries
-- Slivered almonds, toasted Dressing:
+- Slivered almonds, toasted
+
+Dressing:
+
 - 1/4 to 1/2 cup white sugar
 - 2 Tbsp sesame seeds
 - 1 Tbsp poppy seeds

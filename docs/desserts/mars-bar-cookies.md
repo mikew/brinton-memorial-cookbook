@@ -1,6 +1,6 @@
 # Mars Bar Cookies
 
-Frances Hawley
+Frances Hawley<br/>
 John Hawley
 
 - 4 Mars bars

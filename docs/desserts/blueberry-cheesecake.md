@@ -1,6 +1,6 @@
 # Blueberry Cheesecake
 
-Louise Stoyles
+Louise Stoyles<br/>
 Robin Stoyles
 
 - 1/2 cup butter

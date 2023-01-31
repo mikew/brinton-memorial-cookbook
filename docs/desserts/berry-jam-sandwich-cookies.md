@@ -1,6 +1,6 @@
 # Berry Jam Sandwich Cookies
 
-Liva Gu
+Liva Gu<br/>
 Junyang Xiang
 
 - 3/4 cup (180 mL) butter, softened

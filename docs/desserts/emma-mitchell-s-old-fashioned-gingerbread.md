@@ -1,6 +1,6 @@
 # Emma Mitchell's Old Fashioned Gingerbread
 
-Ronalda Hutton MacDonald
+Ronalda Hutton MacDonald<br/>
 Miranda MacDonald
 
 - 1/4 cup butter
