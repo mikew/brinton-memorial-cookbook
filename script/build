@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -ex
+
+./script/prepare-env
+
+docker-compose run --rm mkdocs build --verbose

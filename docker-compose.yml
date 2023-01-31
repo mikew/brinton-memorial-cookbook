@@ -1,0 +1,9 @@
+version: "2.4"
+
+services:
+  mkdocs:
+    build: .
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/docs
