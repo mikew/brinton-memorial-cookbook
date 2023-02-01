@@ -1,6 +1,6 @@
 # Chocolate Cream Cheesecake
 
-Diane Goosney
+Diane Goosney<br/>
 Paul Goosney
 
 Whipping cream
@@ -15,7 +15,8 @@ Filling:
 
 - 4 squares semi-sweet chocolate
 - 1 cup creamed cottage cheese
-- 1 pkg cream cheese, softened and cubed 1/2 cup sugar
+- 1 pkg cream cheese, softened and cubed
+- 1/2 cup sugar
 - 1 tsp vanilla
 - 3 eggs
 

@@ -1,6 +1,6 @@
 # Creamy Chocolate Chip Cheesecake
 
-Pearl Batten
+Pearl Batten<br/>
 Grade 1 Teacher (1956 - 1957, 1963 - 1987)
 
 - 1 (9 inch) prepared graham wafer pie shell

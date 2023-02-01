@@ -1,6 +1,6 @@
 # Salmon Teriyaki
 
-Lois Hoegg
+Lois Hoegg<br/>
 Charlotte, Catherine and Rachel Crosbie
 
 - 2 lb salmon fillets

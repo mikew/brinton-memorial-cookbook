@@ -1,6 +1,6 @@
 # Low Fat Cocoa Squares
 
-Linda Laite, Principal
+Linda Laite, Principal<br/>
 Katherine Laite
 
 - 1/2 cup rolled oats

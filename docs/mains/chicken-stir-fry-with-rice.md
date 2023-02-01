@@ -1,6 +1,6 @@
 # Chicken Stir-fry With Rice
 
-Liva Gu
+Liva Gu<br/>
 Junyang Xiang
 
 - 1 lb skinless, boneless chicken breasts, cut up

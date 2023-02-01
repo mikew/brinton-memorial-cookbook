@@ -1,6 +1,6 @@
 # Lobster Bisque
 
-Cindi Carnell
+Cindi Carnell<br/>
 Gregory and Geoffrey Carnell
 
 - 1 Tbsp butter

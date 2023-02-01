@@ -1,6 +1,6 @@
 # Cherry Cake
 
-Coleen Parrott
+Coleen Parrott<br/>
 Amelia and Colette Parrott
 
 - 1 1/2 cups margarine

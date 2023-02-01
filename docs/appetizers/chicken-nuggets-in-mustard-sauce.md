@@ -1,6 +1,6 @@
 # Chicken Nuggets In Mustard Sauce
 
-Ruthie Herder
+Ruthie Herder<br/>
 Gillian, Robin and Jamie Laws
 
 - 4 whole chicken breasts,

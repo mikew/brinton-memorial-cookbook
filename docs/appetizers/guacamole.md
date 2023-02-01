@@ -1,6 +1,6 @@
 # Guacamole
 
-Janet MacLean
+Janet MacLean<br/>
 Lauren Newman
 
 - 2 ripe avocados

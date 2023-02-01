@@ -1,6 +1,6 @@
 # Flank Steak Teriyaki
 
-Lorna Proudfoot and Jeff Driscoll
+Lorna Proudfoot and Jeff Driscoll<br/>
 Deidre and Shannon Driscoll
 
 - 1/4 cup vegetable oil

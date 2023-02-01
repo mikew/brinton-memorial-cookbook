@@ -1,6 +1,6 @@
 # Pineapple Cream Cheesecake
 
-Christine Boyde
+Christine Boyde<br/>
 Christopher and Andrew Boyde
 
 - 3 large pkg cream cheese

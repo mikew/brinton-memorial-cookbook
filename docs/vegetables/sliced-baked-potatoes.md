@@ -1,6 +1,6 @@
 # Sliced Baked Potatoes
 
-Elizabeth Andrews
+Elizabeth Andrews<br/>
 Grade 3 Teacher
 
 - 4 medium even potatoes

@@ -1,6 +1,6 @@
 # Nana Dunlop's Pound Cake
 
-Lois Hoegg
+Lois Hoegg<br/>
 Charlotte, Catherine and Rachel Crosbie
 
 - 2 1/2 cups flour

@@ -1,6 +1,6 @@
 # Salsa
 
-Janet MacLean
+Janet MacLean<br/>
 Lauren Newman
 
 - 2 to 3 cloves garlic

@@ -1,6 +1,6 @@
 # Spinach Salad
 
-Frances Hawley
+Frances Hawley<br/>
 John Hawley
 
 Salad:

@@ -1,6 +1,6 @@
 # Mexican Fruitcake
 
-Joan Schriver
+Joan Schriver<br/>
 David and Jordan Schriver
 
 - 2 cups flour

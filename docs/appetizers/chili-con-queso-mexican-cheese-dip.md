@@ -1,6 +1,6 @@
 # Chili Con Queso (Mexican Cheese Dip)
 
-Diane Goosney
+Diane Goosney<br/>
 Paul Goosney
 
 - 2 Tbsp butter

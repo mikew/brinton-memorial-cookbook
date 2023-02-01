@@ -1,6 +1,6 @@
 # Rhubarb Pecan Muffins
 
-Wanda Thompson
+Wanda Thompson<br/>
 Emily Thompson
 
 - 2 cups flour

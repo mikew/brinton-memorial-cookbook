@@ -1,6 +1,6 @@
 # Georgie's Cookies
 
-Elizabeth Oliver
+Elizabeth Oliver<br/>
 Kagan Roy
 
 - 1/2 cup packed brown sugar

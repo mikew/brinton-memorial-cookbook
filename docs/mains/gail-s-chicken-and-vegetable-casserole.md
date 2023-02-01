@@ -1,6 +1,6 @@
 # Gail's Chicken and Vegetable Casserole
 
-Janice Winsor
+Janice Winsor<br/>
 Andrew Winsor
 
 - 3 1/2 cups cooked chicken

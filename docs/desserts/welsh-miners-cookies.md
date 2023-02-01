@@ -1,6 +1,6 @@
 # Welsh Miners Cookies
 
-Catherine Whitehead
+Catherine Whitehead<br/>
 Alastair Whitehead
 
 - 1 cup margarine, softened

@@ -1,6 +1,6 @@
 # Almond Crescents
 
-Glenda Ellsworth
+Glenda Ellsworth<br/>
 Julia Bowdring
 
 - 2 1/4 cups flour

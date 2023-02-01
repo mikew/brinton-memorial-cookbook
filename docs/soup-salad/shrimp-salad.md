@@ -1,6 +1,6 @@
 # Shrimp Salad
 
-Pauline Downer
+Pauline Downer<br/>
 Kyle Downer
 
 - 2 cups shrimp

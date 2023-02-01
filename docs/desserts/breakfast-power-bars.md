@@ -1,6 +1,6 @@
 # Breakfast Power Bars
 
-Wanda Thompson
+Wanda Thompson<br/>
 Emily Thompson
 
 - 1/2 cup whole wheat flour

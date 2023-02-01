@@ -1,6 +1,6 @@
 # Stir-fried Vegetable Medley
 
-Barbara Peterman
+Barbara Peterman<br/>
 Laura Peterman
 
 - 2 medium-large carrots

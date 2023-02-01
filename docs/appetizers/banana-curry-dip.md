@@ -1,6 +1,6 @@
 # Banana Curry Dip
 
-Ruthie Herder
+Ruthie Herder<br/>
 Gillian, Robin and Jamie Laws
 
 - 1 Tbsp butter

@@ -1,6 +1,6 @@
 # Beef Butler
 
-Mary Jane Puxley and Chris Sharpe
+Mary Jane Puxley and Chris Sharpe<br/>
 Anna Sharpe
 
 - Enough of your favourite cut of steak for 2 people

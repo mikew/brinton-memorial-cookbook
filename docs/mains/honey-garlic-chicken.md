@@ -1,6 +1,6 @@
 # Honey Garlic Chicken
 
-Garnet Kindervater
+Garnet Kindervater<br/>
 Jordan and Alex Kindervater
 
 - 3 lb chicken wings, tips removed

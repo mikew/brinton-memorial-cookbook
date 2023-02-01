@@ -1,6 +1,6 @@
 # Cheddar Soda Bread
 
-Gladys Schofield
+Gladys Schofield<br/>
 Meredith and Melody Schofield
 
 - 4 cups all-purpose flour

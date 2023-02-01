@@ -1,6 +1,6 @@
 # Pecan Coffee Cake
 
-Brenda Head
+Brenda Head<br/>
 Mary and Michael Devine
 
 - 1/2 cup butter

@@ -1,6 +1,6 @@
 # Caribou or Moose Korma
 
-Lorna Proudfoot and Jeff Driscoll
+Lorna Proudfoot and Jeff Driscoll<br/>
 Deidre and Shannon Driscoll
 
 - 3 Tbsp cooking oil

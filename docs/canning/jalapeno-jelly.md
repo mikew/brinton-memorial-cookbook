@@ -1,6 +1,6 @@
 # Jalapeno Jelly
 
-Anne Major
+Anne Major<br/>
 Duncan Major
 
 - 1 1/4 lb red or green sweet peppers

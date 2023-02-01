@@ -1,6 +1,6 @@
 # Chocolate Truffle Cake
 
-Lorna Berndt Piercey
+Lorna Berndt Piercey<br/>
 Jamie and Caitlin Piercey
 
 Cake:

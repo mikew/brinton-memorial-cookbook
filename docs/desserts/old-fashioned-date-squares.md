@@ -1,6 +1,6 @@
 # Old Fashioned Date Squares
 
-Brenda Head
+Brenda Head<br/>
 Mary and Michael Devine
 
 - 1 1/2 cups flour

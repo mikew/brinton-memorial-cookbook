@@ -1,6 +1,6 @@
 # Melanie's Baked Stuffed Tomatoes
 
-Kay Smith
+Kay Smith<br/>
 Kindergarten Teacher
 
 - 4 firm ripe tomatoes

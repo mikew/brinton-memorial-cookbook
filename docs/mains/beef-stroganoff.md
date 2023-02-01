@@ -1,6 +1,6 @@
 # Beef Stroganoff
 
-Glenda Ripley
+Glenda Ripley<br/>
 Lauren Ripley
 
 - 2 to 2 1/2 Ib beef (tenderloin, sirloin or flank)

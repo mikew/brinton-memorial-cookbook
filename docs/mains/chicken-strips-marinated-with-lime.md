@@ -1,6 +1,6 @@
 # Chicken Strips Marinated With Lime
 
-Evelyn Eaton
+Evelyn Eaton<br/>
 Alison, Erin and Scott Eaton
 
 - 4 boneless, skinless chicken breasts

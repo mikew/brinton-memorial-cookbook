@@ -1,6 +1,6 @@
 # Blueberry Cottage Pudding With Lemon Sauce
 
-Nancy Stokes
+Nancy Stokes<br/>
 Ben and Jane Stokes
 
 - 1 1/2 cups flour
