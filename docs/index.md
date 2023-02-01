@@ -13,5 +13,4 @@ March, 1996
 
 All of the contents have been converted to text via an automated means, if you notice any errors please report them!
 
-- Download Original Scans
-- Download Formatted PDF
+- [Download Original Scan](http://d1rc7xer1pcllf.cloudfront.net/original-scan.pdf)

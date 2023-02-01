@@ -16,7 +16,7 @@ generate-pages() {
 
   mkdir -p "$PROCESSING_DIR/pages"
 
-  convert -density 400 original-scan/original-scan.pdf "$PROCESSING_DIR/pages/page.png"
+  convert -density 400 original-scan.pdf "$PROCESSING_DIR/pages/page.png"
 }
 
 trim-pages() {
