@@ -1,6 +1,6 @@
 # Fish Chowder
 
-Christine Boyde
+Christine Boyde<br/>
 Christopher and Andrew Boyde
 
 - 1 lb cod fillet

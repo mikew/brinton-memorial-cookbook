@@ -1,6 +1,6 @@
 # Spinach Salad With Strawberries
 
-Mary Jane (M.J.) Arreguin
+Mary Jane (M.J.) Arreguin<br/>
 Andrew Arreguin
 
 - Spinach

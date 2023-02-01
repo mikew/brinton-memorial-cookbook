@@ -1,6 +1,6 @@
 # Ruffled Cheese Torte
 
-Susan Kielley
+Susan Kielley<br/>
 Evan Kielley
 
 - 1 lb (450 g) lasagna noodles

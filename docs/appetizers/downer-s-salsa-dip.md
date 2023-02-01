@@ -1,6 +1,6 @@
 # Downer's Salsa Dip
 
-Pauline Downer
+Pauline Downer<br/>
 Kyle Downer
 
 - 1 large bottle thick and chunky Old El Paso salsa

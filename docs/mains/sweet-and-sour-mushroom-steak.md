@@ -1,6 +1,6 @@
 # Sweet and Sour Mushroom Steak
 
-Vicki Stokes
+Vicki Stokes<br/>
 Gillian and Andrea Stokes
 
 - 2 lb round steak, cut into small pieces

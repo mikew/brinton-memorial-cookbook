@@ -1,6 +1,6 @@
 # Scalloped Potatoes
 
-Dianne Anderson
+Dianne Anderson<br/>
 Kenneth and Ian Anderson
 
 - 6 to 7 large potatoes (2 lb)

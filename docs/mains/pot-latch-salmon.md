@@ -1,6 +1,6 @@
 # Pot Latch Salmon
 
-Lorraine Major
+Lorraine Major<br/>
 Julia, Jessica and Andrea Major
 
 - 3 to 4 lb salmon, filleted

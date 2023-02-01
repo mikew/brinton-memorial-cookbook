@@ -1,6 +1,6 @@
 # Oven Barbecued Ribs
 
-Nancy Stokes
+Nancy Stokes<br/>
 Ben and Jane Stokes
 
 - 1 cup white sugar

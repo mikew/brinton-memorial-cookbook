@@ -1,6 +1,6 @@
 # Apple Coffee Cake
 
-Dianne Anderson
+Dianne Anderson<br/>
 Kenneth and Ian Anderson
 
 - 1 1/3 cups flour

@@ -1,6 +1,6 @@
 # Ginger Pumpkin Soup
 
-Jim Brown
+Jim Brown<br/>
 Ian Brown
 
 - 2 lb pumpkin

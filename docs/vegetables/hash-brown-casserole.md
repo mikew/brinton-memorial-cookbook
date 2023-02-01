@@ -1,6 +1,6 @@
 # Hash Brown Casserole
 
-Kay Smith
+Kay Smith<br/>
 Kindergarten Teacher
 
 - 1 pkg hash browns

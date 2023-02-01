@@ -1,6 +1,6 @@
 # Quince Jam
 
-Petra Sunner
+Petra Sunner<br/>
 Alvan Buckley
 
 - 2 kg quinces

@@ -1,6 +1,6 @@
 # Balsamic Chicken Breasts
 
-Linda Laite, Principal
+Linda Laite, Principal<br/>
 Katherine Laite
 
 - 4 boneless, skinless chicken breasts

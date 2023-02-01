@@ -1,6 +1,6 @@
 # Banana Chocolate Chip Muffins
 
-Kathy Kleven
+Kathy Kleven<br/>
 Elisabeth and Christopher Kleven
 
 - 3 bananas, well ripened and mashed

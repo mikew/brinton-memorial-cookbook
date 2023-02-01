@@ -1,6 +1,6 @@
 # Molly's Irish Whole Meal Bread
 
-Anne Murray
+Anne Murray<br/>
 Daniel Murray
 
 - 12 oz whole meal flour or wheat and oat flour

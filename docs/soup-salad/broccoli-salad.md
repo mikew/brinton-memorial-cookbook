@@ -1,6 +1,6 @@
 # Broccoli Salad
 
-Michael Sullivan
+Michael Sullivan<br/>
 Julia Sullivan
 
 - 1 large bunch fresh broccoli, cut into pieces

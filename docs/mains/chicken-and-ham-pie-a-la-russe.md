@@ -1,6 +1,6 @@
 # Chicken and Ham Pie À La Russe
 
-John Greey
+John Greey<br/>
 John William, Tory, Ginger and James Greey
 
 - 5 to 6 oz cooked chicken, chopped

@@ -1,6 +1,6 @@
 # Bacon and Brewis (Breakfast)
 
-Annette and Guy Furneaux
+Annette and Guy Furneaux<br/>
 Andrew and Nicholas Furneaux
 
 - 3 cakes of hard bread

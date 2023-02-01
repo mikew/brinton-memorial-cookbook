@@ -1,6 +1,6 @@
 # Lemon Chicken
 
-Elizabeth Church
+Elizabeth Church<br/>
 Lucy and Elinor Barker
 
 - 3 1/2 Ib chicken, cut into 10 pieces

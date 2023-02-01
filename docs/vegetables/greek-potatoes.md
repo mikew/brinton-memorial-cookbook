@@ -1,6 +1,6 @@
 # Greek Potatoes
 
-Mary Jane Puxley and Chris Sharpe
+Mary Jane Puxley and Chris Sharpe<br/>
 Anna Sharpe
 
 - 3 lb potatoes, peeled and cubed

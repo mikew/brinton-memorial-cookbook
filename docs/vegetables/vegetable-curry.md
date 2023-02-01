@@ -1,6 +1,6 @@
 # Vegetable Curry
 
-Bernie Bowers
+Bernie Bowers<br/>
 Kate and Andy Bowers
 
 - 2 carrots, sliced

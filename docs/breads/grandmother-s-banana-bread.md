@@ -1,6 +1,6 @@
 # Grandmother's Banana Bread
 
-Amy Kavanagh
+Amy Kavanagh<br/>
 Jacob and Chandra Kavanagh
 
 - 1/2 cup margarine or butter

@@ -1,6 +1,6 @@
 # Scalloped Salmon
 
-Gladys Schofield
+Gladys Schofield<br/>
 Meredith and Melody Schofield
 
 - 6 or 7 cooked potatoes

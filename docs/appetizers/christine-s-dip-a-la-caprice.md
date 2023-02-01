@@ -1,6 +1,6 @@
 # Christine's Dip À La Caprice
 
-Judy Chisholm
+Judy Chisholm<br/>
 Nicholas Chisholm
 
 - 250 g pkg cream cheese

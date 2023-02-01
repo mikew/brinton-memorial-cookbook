@@ -1,6 +1,6 @@
 # Dad's Super-duper Pancakes
 
-Chris Pike
+Chris Pike<br/>
 Andrew, Benjamin and Zachary Pike
 
 - 1 cup flour

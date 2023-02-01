@@ -1,6 +1,6 @@
 # Layered Mexican Dip
 
-Norma Bartlett
+Norma Bartlett<br/>
 Andrew Bartlett
 
 - 8 oz pkg cream cheese, softened

@@ -1,6 +1,6 @@
 # Hot Bacon Dressing, Spinach and Mushroom Salad
 
-Bob Helleur
+Bob Helleur<br/>
 Donald Helleur
 
 - 1 clove garlic

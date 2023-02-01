@@ -1,6 +1,6 @@
 # Strawberry Spinach Salad
 
-Cindi Carnell
+Cindi Carnell<br/>
 Gregory and Geoffrey Carnell
 
 - 2 bunches fresh spinach, washed and torn

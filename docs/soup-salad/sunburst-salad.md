@@ -1,6 +1,6 @@
 # Sunburst Salad
 
-Mary Catherine Hancock
+Mary Catherine Hancock<br/>
 Matthew, Colin and Laura Hancock
 
 Salad:

@@ -1,6 +1,6 @@
 # Cobb Salad
 
-Elizabeth Crosbie
+Elizabeth Crosbie<br/>
 Andrew Crosbie
 
 - 1/2 cup vegetable oil

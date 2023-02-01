@@ -1,6 +1,6 @@
 # Seafood Sauce
 
-Susan Squires
+Susan Squires<br/>
 Matthew Squires
 
 - 3/4 cup ketchup

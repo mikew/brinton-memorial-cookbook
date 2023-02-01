@@ -1,6 +1,6 @@
 # Partridgeberry Muffins
 
-Maud Foster
+Maud Foster<br/>
 Grade 4 Teacher (1959 - 1985)
 
 - 1 1/2 cups flour
