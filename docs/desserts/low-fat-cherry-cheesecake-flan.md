@@ -1,7 +1,7 @@
 # Low Fat Cherry Cheesecake Flan
 
-Ann M. Kenworth<br/>
-Rachel Kenworth
+Ann M. Kenworthy<br/>
+Rachel Kenworthy
 
 - 1 1/2 cups all-purpose flour
 - 1/2 cup granulated sugar

@@ -1,6 +1,6 @@
 # Mary Vickers
 
-Lorna Proudfoot, Jeff Driscoll<br/>
+Lorna Proudfoot and Jeff Driscoll<br/>
 Deidre and Shannon Driscoll
 
 - 1 loaf sliced white bread
