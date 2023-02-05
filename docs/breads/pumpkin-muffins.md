@@ -1,7 +1,7 @@
 # Pumpkin Muffins
 
 Lynn Dodd<br/>
-Elvse Dodd
+Elyse Dodd
 
 - 3/4 cup natural bran
 - 3/4 cup whole wheat flour

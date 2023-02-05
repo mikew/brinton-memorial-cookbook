@@ -1,7 +1,7 @@
 # Vegetable Curry
 
 Bernie Bowers<br/>
-Kate and Andy Bowers
+Andy and Kate Bowers
 
 - 2 carrots, sliced
 - 2 ribs celery, sliced

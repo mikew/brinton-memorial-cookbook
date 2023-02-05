@@ -1,0 +1,27 @@
+{
+  "name": "brinton-memorial-cookbook",
+  "version": "1.0.0",
+  "description": "Cookbook from my elementary school, Brinton Memorial, hastily converted to markdown and presented via mkdocs-material.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikew/brinton-memorial-cookbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikew/brinton-memorial-cookbook/issues"
+  },
+  "homepage": "https://github.com/mikew/brinton-memorial-cookbook#readme",
+  "devDependencies": {
+    "@types/marked": "^4.0.8",
+    "marked": "^4.2.12"
+  }
+}
